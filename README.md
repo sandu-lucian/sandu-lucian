@@ -4,17 +4,20 @@
 
 ### I'm a Junior Frontend Developer from Iasi, Romania
 
-## Social media :mailbox_with_no_mail:
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucian-sandu/)](https://www.linkedin.com/in/lucian-sandu/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dev.luciansandu@gmail.com)](mailto:dev.luciansandu@gmail.com)
 
-[![Twitter URL](https://img.shields.io/twitter/url?color=%230072b1&label=connect&logo=linkedin&logoColor=%230072b1&style=flat-square&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Falejandro-ramirez-ciceros%2F)](https://www.linkedin.com/in/lucian-sandu/)
-<!--
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+#### The Frontend technologies I currently use:
+![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
+![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
+![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)
+![TypeScript](https://img.shields.io/badge/-TypeScript-%232f74c0?style=flat-square&logo=typescript&logoColor=ffffff)
+
+### Fun facts
+- I practiced martial arts for almost 12 years :muscle:
+- I'm a guitar player :musical_note:
+- I speak Romanian (native), English (C1 level) and French (A2 level) :globe_with_meridians:
