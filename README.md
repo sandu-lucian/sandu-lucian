@@ -1,4 +1,4 @@
-<img align="right" width="400" height="400" src="https://github.com/sandu-lucian/sandu-lucian/tree/master/gifs/Hi.gif" />
+<img align="right" width="400px" height="200px" src="https://github.com/sandu-lucian/sandu-lucian/blob/master/gifs/Hi.gif">
 
 ## Hello, I'm Lucian! 👋
 
