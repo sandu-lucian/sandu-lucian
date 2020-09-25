@@ -4,7 +4,7 @@
 
 ### My name is Lucian and I'm a 25 years old Junior Frontend Developer from Iasi, Romania!
 
-I am a friendly, fast-learning individual, currently into the TypeScript React combo. For whatever experience I lack, I compensate through hard work and study and I believe in a world where everybody can become a better version of themselves through these two steps!
+I am a friendly, fast-learning individual, currently into the TypeScript React combo.<br><br> For whatever experience I lack, I compensate through hard work and study and I believe in a world where everybody can become a better version of themselves through these two steps!
 
 #### The Frontend technologies I currently use:
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
