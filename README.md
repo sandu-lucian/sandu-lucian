@@ -17,18 +17,18 @@ I am a friendly, fast-learning individual, with a sweet tooth for the React ecos
 ![TypeScript](https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white)
 ![Material-UI](https://img.shields.io/badge/material%20ui%20-%230081CB.svg?&style=for-the-badge&logo=material-ui&logoColor=white)
 
-#### Backend beginner skills:
+#### :busts_in_silhouette: Backend beginner skills:
 - NodeJS
 - Express
 - Socket.io
 
-#### Testing skills:
+#### :white_check_mark: Testing skills:
 - Cypress
 - Selenium WebDriver
 - NUnit
 - Postman (API testing)
 
-#### Other skills include:
+#### :bulb: Other skills include:
 - C# basics and OOP
 - SQL basics
 - GIT
