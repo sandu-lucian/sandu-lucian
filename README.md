@@ -18,11 +18,21 @@ I am a friendly, fast-learning individual, with a sweet tooth for the React ecos
 ![Material-UI](https://img.shields.io/badge/material%20ui%20-%230081CB.svg?&style=for-the-badge&logo=material-ui&logoColor=white)
 
 #### Backend beginner skills:
-![NodeJS](https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge)
+- NodeJS
+- Express
+- Socket.io
+
+#### Testing skills:
+- Cypress
+- Selenium WebDriver
+- NUnit
+- Postman (API testing)
 
 #### Other skills include:
-![GIT](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)
+- C# basics and OOP
+- SQL basics
+- GIT
+- Jira
 
 #### Fun facts
 - I practiced martial arts for almost 12 years :muscle:
