@@ -4,15 +4,25 @@
 
 ### My name is Lucian and I'm a 25 years old Junior Frontend Developer from Iasi, Romania!
 
-I am a friendly, fast-learning individual, currently into the TypeScript React combo.<br><br> For whatever experience I lack, I compensate through hard work and study and I believe in a world where everybody can become a better version of themselves through these two steps!
+I am a friendly, fast-learning individual, with a sweet tooth for the React ecosystem!<br><br> For whatever experience I lack, I compensate through hard work and study and I believe in a world where everybody can become a better version of themselves through these two steps!
 
 #### The Frontend technologies I currently use:
-![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
-![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
-![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)
-![TypeScript](https://img.shields.io/badge/-TypeScript-%232f74c0?style=flat-square&logo=typescript&logoColor=ffffff)
+![HTML5](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white)
+![Sass](https://img.shields.io/badge/SASS%20-hotpink.svg?&style=for-the-badge&logo=SASS&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Redux](https://img.shields.io/badge/redux%20-%23593d88.svg?&style=for-the-badge&logo=redux&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white)
+![Material-UI](https://img.shields.io/badge/material%20ui%20-%230081CB.svg?&style=for-the-badge&logo=material-ui&logoColor=white)
+
+#### Backend beginner skills:
+![NodeJS](https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge)
+
+#### Other skills include:
+![GIT](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)
 
 #### Fun facts
 - I practiced martial arts for almost 12 years :muscle:
@@ -22,5 +32,5 @@ I am a friendly, fast-learning individual, currently into the TypeScript React c
 
 ### If you want to get in touch, please contact me on LinkedIn or by email at dev.luciansandu@gmail.com
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucian-sandu/)](https://www.linkedin.com/in/lucian-sandu/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dev.luciansandu@gmail.com)](mailto:dev.luciansandu@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/lucian-sandu/)](https://www.linkedin.com/in/lucian-sandu/)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:dev.luciansandu@gmail.com)](mailto:dev.luciansandu@gmail.com)
